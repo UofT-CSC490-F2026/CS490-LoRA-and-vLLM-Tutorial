@@ -19,7 +19,10 @@ In this tutorial, we work through the lifecycle of a modern LLM project:
 ## Files
 * `020226_tutorial_lora_vllm.ipynb`: The main Jupyter Notebook containing all code for training, saving, and serving the models.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Zo48j1z8UYHhog00LTFp78BBdmdSZa2f?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/drive/1kXWnzejla9Lx3kiIsQBd8mP-g5qw48jx?usp=sharing)
+
+
 
 ---
 
